@@ -1,5 +1,5 @@
 # Environments and simulators for Learning Algorithms
-Collection of environments, simulators and competitions for training & benchmarking RL and AI algorithms.
+Collection of environments, simulators and competitions for training & benchmarking Reinforcement Learning and AI algorithms.
 
 
 ## Collections of environments
