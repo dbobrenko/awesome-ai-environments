@@ -11,11 +11,11 @@ Collection of environments, simulators and competitions for training & benchmark
   - Link: https://github.com/openai/universe
   - Gym-compatible
 
-**Pycolab**. Customized Grid-World env (DeepMind).
-  - Link: https://github.com/deepmind/pycolab
-
 **ALE**. Arcade Learning Environment with Atari games (Marc Bellemare).
   - Link: https://github.com/mgbellemare/Arcade-Learning-Environment
+  
+**Pycolab**. Customized Grid-World env (DeepMind).
+  - Link: https://github.com/deepmind/pycolab
 
 
 ## Vehicle Simulation
@@ -42,15 +42,15 @@ Collection of environments, simulators and competitions for training & benchmark
   - Link: https://github.com/allenai/ai2thor
   - Competition (June): https://competitions.codalab.org/competitions/16929#learn_the_details
     
-**HoME Platform**. Home indoor navigation. Based on SUNCG datasets.
+**HoME Platform**. Home indoor navigation. Based on SUNCG dataset.
   - Link: https://github.com/HoME-Platform/home-platform
   - Gym-compatible
   
-**MINOS**. Home indoor navigation. Based on SUNCG or Matterport3D datasets (Intel).
+**MINOS**. Home indoor navigation. Based on SUNCG and Matterport3D datasets (Intel).
   - Link: https://github.com/minosworld/minos
   - Gym-compatible
 
-**House3D**. Home indoor navigation & Visual Question Answering (Facebook).
+**House3D**. Home indoor navigation & Visual Question Answering. Based on SUNCG dataset (Facebook).
   - Link: https://github.com/facebookresearch/House3D
 
 
@@ -60,7 +60,9 @@ Collection of environments, simulators and competitions for training & benchmark
   
 **TorchCraft**. Starcraft I strategy learning environment  (Facebook).
   - Link: https://github.com/TorchCraft/TorchCraft/
-
+  - Competitions:
+    - SC AI Competition: https://www.cs.mun.ca/~dchurchill/starcraftaicomp/
+    - Student SC AI Tournament: https://sscaitournament.com
 
 ## Locomotion
 **Roboschool**. Locomotion, replicates proprietary MoJoCo environments with additional improvemets; OpenAI
