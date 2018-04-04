@@ -54,7 +54,7 @@ Collection of environments, simulators and competitions for training & benchmark
   - Link: https://github.com/facebookresearch/House3D
   
 **Gym-Maze**. 2D navigation in customizable mazes.
-  - Link: https://github.com/zuoxingdong/gym-maze
+  - Link: https://github.com/zuoxingdong/gym-maze
   - Gym-compatible
 
 ## Strategies
@@ -79,5 +79,5 @@ Collection of environments, simulators and competitions for training & benchmark
 ## Multi-Agent RL
 **PommerMan**. Multi-Agent (up to 4 players) "Bomberman"-like game.
   - Link: https://github.com/MultiAgentLearning/playground
-  - Leaderboard: https://www.pommerman.com/
+  - Competition: https://www.pommerman.com/competitions
 
