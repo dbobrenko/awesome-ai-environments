@@ -53,6 +53,9 @@ Collection of environments, simulators and competitions for training & benchmark
 **House3D**. Home indoor 3D Navigation & Visual Question Answering. Based on SUNCG dataset (Facebook).
   - Link: https://github.com/facebookresearch/House3D
   
+**GibsonEnv**. Home indoor 3D Navigation & Locomotion. Based on Gibson, SUNCG, Stanford 2D3DS and Matterport 3D datasets (Stanford).
+  - Link: https://github.com/StanfordVL/GibsonEnv
+  
 **Gym-Maze**. 2D navigation in customizable mazes.
   - Link: https://github.com/zuoxingdong/gym-maze
   - Gym-compatible
