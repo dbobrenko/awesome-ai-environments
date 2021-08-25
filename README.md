@@ -27,7 +27,7 @@ Collection of environments, simulators and competitions for training & benchmark
 
 
 ## Navigation
-**MineRL**. Minecraft Gym-friendly RL environment.
+**MineRL**. Minecraft Gym-friendly RL environment along with human player dataset for imitation learning (CMU).
   - Link: https://minerl.io/
 
 **Deepmind Lab**. 3D Navigation in Labyrinths (Deepmind).
