@@ -27,6 +27,9 @@ Collection of environments, simulators and competitions for training & benchmark
 
 
 ## Navigation
+**MineRL**. Minecraft Gym-friendly RL environment.
+  - Link: https://minerl.io/
+
 **Deepmind Lab**. 3D Navigation in Labyrinths (Deepmind).
   - Link: https://github.com/deepmind/lab
 
