@@ -20,6 +20,7 @@ Collection of environments, simulators and competitions for training & benchmark
 ## Custom environments
 **Unity ML-agents** (Unity Technologies). Allows creating custom AI/RL environments with training support via Unity3D plugin.
   - Link: https://github.com/Unity-Technologies/ml-agents
+  - Gym-compatible
 
 
 ## Vehicle Simulation
