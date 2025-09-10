@@ -17,6 +17,9 @@ Collection of environments, simulators and competitions for training & benchmark
 **Pycolab**. Customized Grid-World env (DeepMind).
   - Link: https://github.com/deepmind/pycolab
 
+**PettingZoo**. Multi-Agent environment.
+  - Link: https://github.com/Farama-Foundation/PettingZoo
+
 ## Custom environments
 **Unity ML-agents** (Unity Technologies). Allows creating custom AI/RL environments with training support via Unity3D plugin.
   - Link: https://github.com/Unity-Technologies/ml-agents
