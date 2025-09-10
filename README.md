@@ -17,8 +17,13 @@ Collection of environments, simulators and competitions for training & benchmark
 **Pycolab**. Customized Grid-World env (DeepMind).
   - Link: https://github.com/deepmind/pycolab
 
-**PettingZoo**. Multi-Agent environment.
+## Multi-Agent RL
+**PettingZoo**. Multi-Agent (gym-like) environment.
   - Link: https://github.com/Farama-Foundation/PettingZoo
+
+**PommerMan**. Multi-Agent (up to 4 players) "Bomberman"-like game.
+  - Link: https://github.com/MultiAgentLearning/playground
+  - Competition: https://www.pommerman.com/competitions
 
 ## Custom environments
 **Unity ML-agents** (Unity Technologies). Allows creating custom AI/RL environments with training support via Unity3D plugin.
@@ -90,8 +95,4 @@ Collection of environments, simulators and competitions for training & benchmark
   - Link: https://github.com/deepmind/dm_control
   - arXiv: https://arxiv.org/abs/1801.00690
 
-## Multi-Agent RL
-**PommerMan**. Multi-Agent (up to 4 players) "Bomberman"-like game.
-  - Link: https://github.com/MultiAgentLearning/playground
-  - Competition: https://www.pommerman.com/competitions
 
